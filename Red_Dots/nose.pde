@@ -1,1 +1,4 @@
-void nose(){}//end
+void nose(){
+ triangle();
+
+}//end

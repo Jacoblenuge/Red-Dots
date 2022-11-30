@@ -12,7 +12,7 @@ void setup() {
   population();
   //Theme: i.e Face (will work in portrait and landscape)
   faceSetup();
-  eyes():
+  eyes();
   nose();
   mouth();
   measlesDynamic();
